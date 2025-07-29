@@ -1,0 +1,17 @@
+h3{
+    font-style: oblique;
+    color:darkgreen;
+}
+p{
+    color:orange;
+}
+button{
+    color:brown;
+    background-color:beige;
+}
+body{
+    background-color:pink;
+}
+*{
+    font-size:x-large;
+}
